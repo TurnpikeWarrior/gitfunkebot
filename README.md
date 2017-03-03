@@ -1,2 +1,2 @@
 # gitfunkebot
-My Custom Git Terminal Mac Configuration
+My Custom .bash_profile Git Terminal Mac Configuration
