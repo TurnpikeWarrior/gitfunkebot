@@ -16,3 +16,4 @@ These are my aliases for routine git commands:
 
 if you want git-friendly terminal command prompt, try my code and add it to your .bash_profile! if you do not like it, simply delete it and your command prompt will be back to normal. 
 
+~[screenshot](images/screenshot.png)
